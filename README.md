@@ -1,2 +1,3 @@
-# index
-default
+# Lucas Resolve
+
+Web and mobile development
